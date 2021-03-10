@@ -1,4 +1,4 @@
-[# Background Gradient Generator](https://unruffled-mayer-3a886a.netlify.app/)
+# Background Gradient Generator
 
 [View Live](https://unruffled-mayer-3a886a.netlify.app/)
  
